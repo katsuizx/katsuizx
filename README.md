@@ -1,2 +1,0 @@
-eamn 
-python
